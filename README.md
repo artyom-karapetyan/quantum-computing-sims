@@ -19,10 +19,10 @@ python -m pip install qiskit qiskit-aer numpy matplotlib
 Run any simulation from the repository root:
 
 ```bash
-python quantum-dense-coding.py
-python quantum-teleportation.py
-python bell-inequality-checker.py
-python GHZ-test.py
+python src/quantum_dense_coding.py
+python src/quantum_teleportation.py
+python src/bell_inequality_checker.py
+python src/ghz_test.py
 ```
 
 ## Resources
